@@ -1,2 +1,3 @@
 # PowerMeter
 with NRF51422.. Not complete...
+NRF51422 HX711 MPU6050
